@@ -1,2 +1,2 @@
 # Hello-world
-试试GitHub
+学习GitHub使用
